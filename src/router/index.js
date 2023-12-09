@@ -18,7 +18,7 @@ const routes = [
         [7, 0]
       ],
       editableHeight: 10,
-      objectColor: '#ff00f2'
+      objectColor: '#a0c5cf'
     }
   },
   {
@@ -32,7 +32,7 @@ const routes = [
         [0, 14]
       ],
       editableHeight: 15,
-      objectColor: '#ff0000'
+      objectColor: '#9F0000'
     }
   }
 ]
